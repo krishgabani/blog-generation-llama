@@ -11,7 +11,7 @@
 5. !streamlit run app.py & npx localtunnel --port 8501
 ```
 
-### Secrets
+### Secrets to use Langsmith
 ```js
 LANGCHAIN_TRACING_V2 = "true"
 LANGCHAIN_ENDPOINT = "https://api.smith.langchain.com"
